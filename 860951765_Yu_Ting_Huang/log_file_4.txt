@@ -1,0 +1,4 @@
+INFORMATION;TIME_RESET;2014-11-17 09:04:48.895;0
+INFORMATION;PROGRAM_START;Program started (Version 1.0.0.0);0
+INFORMATION;USER_LOGIN;Logged user in with file: C:\\Users\\Johann\\Documents\\ucr-newtonstablet\\NewtonsTablet\\bin\\Debug\\user_logs\\860951765\\log_file_4.txt;0
+DEBUG;Closing program;627
